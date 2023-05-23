@@ -44,7 +44,14 @@ body{
     display: flex;
     flex-direction: column;
     gap: 40px;
+    
 }
+
+.apresentacao img {
+    max-width: 40%;
+    height: auto;
+  }
+
 
 .apresentacao__conteudo__titulo{
     font-size: 2.25rem;
